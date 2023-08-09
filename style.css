@@ -1,0 +1,162 @@
+body{
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-image: url('back-image3.jpg');
+    /* width: 500px; */
+    height: 100vh;
+    margin: 0%;
+    padding-left: 10px;
+}
+h1{ text-align: center;
+    color:rgb(1, 1, 6);
+    margin: 0%;
+    font-family: 'Fredericka the Great', cursive;
+    font-weight: bold;
+}
+h2{ text-align: center;
+    color:rgb(0, 0, 8);
+    margin: 0%;
+    font-family: 'Love Ya Like A Sister', cursive;
+    font-weight: bold;
+}
+.bio-p{ text-align: center;
+    color:rgb(0, 0, 8);
+    margin: 0%;
+    font-size: large;
+}
+
+.mine-pic{
+    margin-top: 100px;
+    height: 400px;
+    width: 400px;}
+.bio{
+    position: absolute;
+    line-height: 2;
+    background-color: rgba(161, 212, 243, 0);
+    display: inline-block;
+    width: 40%;
+    margin: 165px 70px 70px 50px;
+    padding: 10px;}
+.icons{
+    position: absolute;
+    display: inline-block;
+    height: 494px;
+    width: 50px;
+    background-color: rgba(161, 212, 243, 0);
+    top: 80px;
+    left: 1100px;
+}
+.accademics{
+    width: 50px;
+    border-radius: 10px;
+    margin:0px 0px 0px 0px;
+    background-color: rgba(161, 212, 243, 0)b;}
+.accademics:hover{background-color: #69d8e9;}
+.projects{
+    border: 10px;
+    width: 50px;
+    border-radius: 10px;
+    margin:20px 0px 0px 0px;
+    background-color: rgba(161, 212, 243, 0);}
+.projects:hover{background-color: #69d8e9;}
+.skills{
+    border: 10px;
+    width: 50px;
+    border-radius: 10px;
+    margin:20px 0px 0px 0px;
+    background-color: rgba(161, 212, 243, 0);}
+.skills:hover{background-color: #69d8e9;}
+.certifications{
+    border: 10px;
+    width: 50px;
+    border-radius: 10px;
+    margin:20px 0px 0px 0px;
+    background-color: rgba(161, 212, 243, 0)3;}
+.certifications:hover{background-color: #69d8e9;}
+.personal{
+    width: 50px;
+    border-radius: 10px;
+    margin:20px 0px 0px 0px;
+    background-color: rgba(161, 212, 243, 0);}
+.personal:hover{background-color: #69d8e9;}
+.interests{
+    width: 50px;
+    border-radius: 10px;
+    margin:20px 0px 0px 0px;
+    background-color: rgba(161, 212, 243, 0);}
+.interests:hover{background-color: #69d8e9;}
+.languages{
+    width: 50px;
+    border-radius: 10px;
+    margin:20px 0px 0px 0px;
+    background-color: rgba(161, 212, 243, 0);}
+.languages:hover{background-color: #69d8e9;}
+
+.icon_description{
+    position: absolute;
+    display: inline-block;
+    height: 494px;
+    width: 130px;
+    background-color: rgba(161, 212, 243, 0);
+    top: 80px;
+    left: 1160px;
+    line-height: 3.6;
+    font-family: 'Love Ya Like A Sister', cursive;font-weight:bold;
+}
+.description{
+    margin-top: 0%;
+}
+.social-media{
+        display: inline-block;
+        text-align: center;
+        margin-left: 240px;
+}
+.instagram{
+    border-radius: 10px;
+    margin-right: 20px;
+    width:50px ;
+}
+.instagram:hover{
+    background-color: #5f71a3;
+}
+.facebook{
+    border-radius: 10px;
+    margin-right: 20px;
+    width:50px ;
+}
+.facebook:hover{
+    background-color: #5f71a3;}
+
+.linkedin{
+    border-radius: 10px;
+    margin-right: 20px;
+    width:50px ;
+}
+.linkedin:hover{
+    background-color: #5f71a3;}
+
+.btn {
+        background: #3498db;
+        background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+        background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+        background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+        background-image: -o-linear-gradient(top, #3498db, #2980b9);
+        background-image: linear-gradient(to bottom, #3498db, #2980b9);
+        -webkit-border-radius: 26;
+        -moz-border-radius: 26;
+        border-radius: 26px;
+        text-shadow: 2px 2px 30px #422b42;
+        font-family: Georgia;
+        color: #ffffff;
+        font-size: 16px;
+        padding: 10px 20px 10px 20px;
+        text-decoration: none;
+        position: absolute;
+        left: 690px;
+        top: 550px;
+      }
+      
+.btn:hover {
+        background: #265a7a;
+        text-decoration: none;
+      }
